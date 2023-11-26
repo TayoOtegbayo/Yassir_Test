@@ -1,6 +1,6 @@
 Feature: I want to enter a new course details
 
-  Background: Login to the Website
+  Background: This test the login and manage course of e-learning platform
     Given I login to the Website
       | username                  | validpassword |
       | anasir@citn.org       | Password2023@    |
